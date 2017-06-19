@@ -1,0 +1,29 @@
+{
+  "name": "ewd-qoper8-jasmine",
+  "version": "1.0.0",
+  "description": "jasmine integrations for ewd-qoper8",
+  "main": "index.js",
+  "dependencies": {
+    "ewd-qoper8": "^3.13.0",
+    "jasmine": "^2.6.0",
+    "jasmine-expect": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-andronnikov/ewd-qoper8-jasmine.git"
+  },
+  "keywords": [
+    "jasmine",
+    "ewd-qoper8"
+  ],
+  "author": "Sergey Andronnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-andronnikov/ewd-qoper8-jasmine/issues"
+  },
+  "homepage": "https://github.com/s-andronnikov/ewd-qoper8-jasmine#readme"
+}
